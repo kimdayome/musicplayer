@@ -9,7 +9,7 @@ import RecommendedArtists from './components/RecommendedArtists';
 import axios from 'axios'; // for making API calls
 
 function App() {
-    const clientID = "f01e0da157b34dba851ef97001fb962c"; 
+    const clientID = ""; 
     const redirectURI = "http://localhost:5173/"; // Redirect URI
     const responseType = "token"; // Response type
 
